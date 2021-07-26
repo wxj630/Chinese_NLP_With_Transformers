@@ -7,4 +7,4 @@ transformers是[hugging face](https://huggingface.co)开源的自然语言处理
 
 - BERT(来自谷歌) 与论文BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding 一起发布
 - GPT-2(来自OpenAI) 与论文 Language Models are Unsupervised Multitask Learners 一起发布
-- XLNet (来自谷歌/CMU) 与论文 XLNet: Generalized Autoregressive Pretraining for Language Understanding 一起发布
+- XLNet (来自谷歌/CMU) 与论文   XLNet: Generalized Autoregressive Pretraining for Language Understanding 一起发布
