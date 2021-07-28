@@ -17,4 +17,8 @@ if __name__ == '__main__':
 
 from transformers import AutoModelForSeq2SeqLM, DataCollatorForSeq2Seq, Seq2SeqTrainingArguments, Seq2SeqTrainer
 
+from datasets import load_dataset, load_metric
+
+raw_datasets = load_dataset("wmt16", "zh-en")
+metric = load_metric("sacrebleu")
 
