@@ -10,7 +10,7 @@ transformers是[Hugging Face](https://huggingface.co)开源的自然语言处理
    - 阅读理解：[多项选择](https://github.com/wxj630/Chinese_NLP_With_Transformers/blob/master/multi_choice.ipynb)
 3. 序列标注：
   [命名实体识别](https://github.com/wxj630/Chinese_NLP_With_Transformers/blob/master/named_entity_recognition.ipynb)
-   （分词Chinese Word Segmentation、词性标注Part-Of-Speech tagging实现类似）
+   （中文分词Chinese Word Segmentation、词性标注Part-Of-Speech tagging实现类似）
 4. 受控文本生成： 
    - [文本摘要](https://github.com/wxj630/Chinese_NLP_With_Transformers/blob/master/summarization.ipynb)
    - [机器翻译](https://github.com/wxj630/Chinese_NLP_With_Transformers/blob/master/translation_en2ro.ipynb)
