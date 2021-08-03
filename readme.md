@@ -10,6 +10,7 @@ transformers是[Hugging Face](https://huggingface.co)开源的自然语言处理
    - 阅读理解：[多项选择](https://github.com/wxj630/Chinese_NLP_With_Transformers/blob/master/multi_choice.ipynb)
 3. 序列标注：
   [命名实体识别](https://github.com/wxj630/Chinese_NLP_With_Transformers/blob/master/named_entity_recognition.ipynb)
+   （分词Chinese Word Segmentation、词性标注Part-Of-Speech tagging实现类似）
 4. 受控文本生成： 
    - [文本摘要](https://github.com/wxj630/Chinese_NLP_With_Transformers/blob/master/summarization.ipynb)
    - [机器翻译](https://github.com/wxj630/Chinese_NLP_With_Transformers/blob/master/translation_en2ro.ipynb)
@@ -29,5 +30,6 @@ BERT、GPT-2、T5刚好是目前主流的三种预训练模型架构，分别是
 - encoder-decoder(编码器-解码器)：适合conditional NLG受控文本生成任务（文本摘要、机器翻译等）。
 
 更多预训练模型的信息和新型预训练模型可以参考：
+- [Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/pdf/2003.08271.pdf) :预训练语言模型综述 from 复旦大学；
 - 智源研究院[GLM模型](https://arxiv.org/abs/2103.10360) ：可同时适用于NLU、conditional NLG、unconditional NLG任务；
 - 百度[ERNIE3.0](https://arxiv.org/abs/2107.02137) ：知识增强的预训练语言模型。
