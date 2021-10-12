@@ -33,3 +33,4 @@ BERT、GPT-2、T5刚好是目前主流的三种预训练模型架构，分别是
 - [Pre-trained Models for Natural Language Processing: A Survey](https://arxiv.org/pdf/2003.08271.pdf) :预训练语言模型综述 from 复旦大学；
 - 智源研究院[GLM模型](https://arxiv.org/abs/2103.10360) ：可同时适用于NLU、conditional NLG、unconditional NLG任务；
 - 百度[ERNIE3.0](https://arxiv.org/abs/2107.02137) ：知识增强的预训练语言模型。
+编辑来自vscode
